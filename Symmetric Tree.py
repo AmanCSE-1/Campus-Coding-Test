@@ -1,4 +1,4 @@
-''' Have a function SymmetricTree(strArr) take the array of strinfs stored in strArr, which will represent a binary tree, 
+''' Have a function SymmetricTree(strArr) take the array of strings stored in strArr, which will represent a binary tree, 
     and determine if the tree is symmetric (a mirror image of itself). '''
 ''' The array will be implemented as similar to a binary heap, except tree may not be complete and NULL nodes on any level mat be represented as #.'''
 
@@ -17,7 +17,7 @@
  
 
 def SymmetricTree(strArr):
-  
+
   # code goes here
   i, factor = 1, 1
   
@@ -31,7 +31,10 @@ def SymmetricTree(strArr):
     if left!=right[::-1]:
       return False
     
-    return True
+    i=end
+	# end of while loop
+    
+   return True
   
 # keep this function call here
 print(SymmetricTree(input())
