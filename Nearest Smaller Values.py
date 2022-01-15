@@ -11,7 +11,7 @@ def NearestSmallerValues(arr):
     result, stack = [], []
 
     for i in arr:
-        while stack and stack[-1]>=i:
+        while stack and stack[-1]>i:
             stack.pop()
 
         if not stack:
