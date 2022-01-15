@@ -8,7 +8,7 @@ def MatrixSpiral(strArr):
     spiral= []
     if matrix==[]: return spiral
 
-    left, right, top, bottom = 0, len(matrix[0])-1, 0, len(matrix)-1
+    left, right, top, bottom = 0, len(matrix)-1, 0, len(matrix)-1
 
     while left<=right and top<=bottom:
         for j in range(left, right+1):
