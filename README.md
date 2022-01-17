@@ -18,4 +18,7 @@
 
   <li> 15/1/2022 Pogo (HackerEarth) CT-1 </li>
    &emsp;&emsp;&emsp;&emsp; Equal_Char <br><br>
+  
+  <li> 17/1/2022 Divisor (HackerEarth) CT-2 </li>
+   &emsp;&emsp;&emsp;&emsp; MaxFloor (Max Histogram Area) <br><br>
 </ul>
