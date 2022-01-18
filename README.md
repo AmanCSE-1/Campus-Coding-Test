@@ -11,7 +11,7 @@
   &emsp;&emsp;&emsp;&emsp; Binary Search LCA <br><br>
 
   <li> 12/1/2022 Arithmetic Geometric (CoderByte) </li>
-   &emsp;&emsp;&emsp;&emsp;  <br><br>
+   &emsp;&emsp;&emsp;&emsp; Array Addition 1 <br><br>
   
   <li> 14/1/2022 Bitwise One (CoderByte) ACT-1 </li>
    &emsp;&emsp;&emsp;&emsp; Wave Sorting <br><br>
