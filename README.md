@@ -13,12 +13,15 @@
   <li> 12/1/2022 Arithmetic Geometric (CoderByte) </li>
    &emsp;&emsp;&emsp;&emsp; Array Addition 1 <br><br>
   
-  <li> 14/1/2022 Bitwise One (CoderByte) ACT-1 </li>
+  <li> 14/1/2022 Bitwise One ACT-1 (CoderByte) </li>
    &emsp;&emsp;&emsp;&emsp; Wave Sorting <br><br>
 
-  <li> 15/1/2022 Pogo (HackerEarth) CT-1 </li>
+  <li> 15/1/2022 Pogo CT-1 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp; Equal_Char <br><br>
   
-  <li> 17/1/2022 Divisor (HackerEarth) CT-2 </li>
+  <li> 17/1/2022 Divisor CT-2 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp; MaxFloor (Max Histogram Area) <br><br>
+  
+  <li> 22/1/2022 Chocolate Distribution CT-3 (HackerEarth) </li>
+   &emsp;&emsp;&emsp;&emsp; Gold Mine Problem <br><br>
 </ul>
