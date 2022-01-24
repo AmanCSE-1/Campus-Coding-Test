@@ -24,4 +24,7 @@
   
   <li> 22/1/2022 Chocolate Distribution CT-3 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp; Gold Mine Problem <br><br>
+  
+  <li> 24/1/2022 Tom's Company CT-4 (HackerEarth) </li>
+   &emsp;&emsp;&emsp;&emsp; Avengers with Powerbooster <br><br>
 </ul>
