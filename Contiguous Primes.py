@@ -40,11 +40,11 @@ for i in array:
     if primes[i]:
         length += 1
     else:
-        result.extend([str(length)]*length)
-        result.append('0')
+        result.extend([length]*length)
+        result.append(0)
         length = 0
 
 if length!=0:
-    result.extend([str(length)]*length)
+    result.extend([length]*length)
 
 print(*result, sep=' ')
