@@ -21,10 +21,10 @@ primes = [True]*(limit+1)
 
 p = 2
 while p <= limit**.5:
-  if primes[p]:
-    for i in range(p+p, limit+1, p):
-      primes[i] = False
-  p += 1
+    if primes[p]:
+        for i in range(p+p, limit+1, p):
+            primes[i] = False
+    p += 1
 
 primes[0] = primes[1] = False
 
