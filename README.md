@@ -31,6 +31,6 @@
   <li> 29/1/2022 No Way Home CT-5 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp;  <br><br>
   
-  <li> 12/3/2022 Contiguous Primes CT-5 (HackerEarth) </li>
+  <li> 12/3/2022 Contiguous Primes CT-6 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp;  <br><br>
 </ul>
