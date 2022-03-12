@@ -27,4 +27,10 @@
   
   <li> 24/1/2022 Tom's Company CT-4 (HackerEarth) </li>
    &emsp;&emsp;&emsp;&emsp; Avengers with Powerbooster <br><br>
+  
+  <li> 29/1/2022 No Way Home CT-5 (HackerEarth) </li>
+   &emsp;&emsp;&emsp;&emsp;  <br><br>
+  
+  <li> 12/3/2022 Contiguous Primes CT-5 (HackerEarth) </li>
+   &emsp;&emsp;&emsp;&emsp;  <br><br>
 </ul>
